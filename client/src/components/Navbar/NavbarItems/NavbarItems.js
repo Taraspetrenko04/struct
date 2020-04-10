@@ -13,7 +13,6 @@ export default class NavbarItems extends Component {
         })
     }
 
-
     render() {
         const { active } = this.state;
         let btnStyle = 'header__button-menu';
@@ -30,7 +29,6 @@ export default class NavbarItems extends Component {
             styleLineBotoom += ' active-before';
             nav += ' navbar-active';
         }
-
 
         return(
             <div className='navbar-items'>
