@@ -1,6 +1,6 @@
 {
   "homepage": "https://taraspetrenko04.github.io/struct/",
-  "name": "client",
+  "name": "struct",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
