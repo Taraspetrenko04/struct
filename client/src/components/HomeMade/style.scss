@@ -1,0 +1,22 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) and (max-width: 959px) {}
+@media (min-width:960px) and (max-width: 1199px) {}
+@media (min-width:1200px) {
+    .homemade{
+        width: 100%;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../img/Layer86@1X.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .homemade-slogan{
+        text-align: center;
+        padding-top: 69px;
+        font-family: Arial, Helvetica, sans-serif;
+        letter-spacing: 1.5px;
+        font-size: 35px;
+        color: #ffff;
+        font-weight: bold;
+    }
+    
+
+}
