@@ -1,6 +1,7 @@
 
 @media all and (min-width : 240px) {
     .header{
+        position: fixed;
         background-color: #ffffff;
         width: 100%;
     }
@@ -8,6 +9,7 @@
 @media (min-width:640px) {}
 @media (min-width:960px) {
     .header{
+        position: static;
         width: 100%;
         background-image: url(../../img/1.png);
         background-repeat: no-repeat;
