@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ff764d35f9654c61de16abca2e6c730",
+    "revision": "8ccbb6dec24d0f40d0f3f1a9b5cc3b1f",
     "url": "/struct/index.html"
   },
   {
-    "revision": "cafc0c4b44030e3f6469",
-    "url": "/struct/static/css/2.8fc03f2f.chunk.css"
+    "revision": "19b0ff756e3c85eb50f0",
+    "url": "/struct/static/css/2.ff7297b1.chunk.css"
   },
   {
-    "revision": "bee0094a6e398d959d04",
-    "url": "/struct/static/css/main.998bc056.chunk.css"
+    "revision": "ce2ee4b4be445a055916",
+    "url": "/struct/static/css/main.fc3b8366.chunk.css"
   },
   {
-    "revision": "cafc0c4b44030e3f6469",
-    "url": "/struct/static/js/2.08087772.chunk.js"
+    "revision": "19b0ff756e3c85eb50f0",
+    "url": "/struct/static/js/2.e9369426.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/struct/static/js/2.08087772.chunk.js.LICENSE.txt"
+    "url": "/struct/static/js/2.e9369426.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bee0094a6e398d959d04",
-    "url": "/struct/static/js/main.e3600f85.chunk.js"
+    "revision": "ce2ee4b4be445a055916",
+    "url": "/struct/static/js/main.f5ed86ef.chunk.js"
   },
   {
     "revision": "6bc2aefc560a423a70df",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac0bace5af824dc645acb488a3e33707",
     "url": "/struct/static/media/1.ac0bace5.png"
+  },
+  {
+    "revision": "6896a8407a88ff0abe85d247bddaaf3f",
+    "url": "/struct/static/media/architecture.6896a840.jpg"
+  },
+  {
+    "revision": "6f8f21aedc5d96c20539b1927e7c906f",
+    "url": "/struct/static/media/construction.6f8f21ae.jpg"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -50,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/struct/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "edcf9b8d60c5712ed970b02239db2186",
+    "url": "/struct/static/media/renovation.edcf9b8d.jpg"
   }
 ]);
